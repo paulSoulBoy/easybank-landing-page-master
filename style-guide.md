@@ -10,8 +10,8 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
-- Dark Blue: hsl(233, 26%, 24%)
+hsl(233, 26%, 24%)
+- Dark Blue: 
 - Lime Green: hsl(136, 65%, 51%)
 - Bright Cyan: hsl(192, 70%, 51%)
 
@@ -30,5 +30,4 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
-- Weights: 300, 400, 700
+- Family: [Public Sans]hsl(136, 65%, 51%)
